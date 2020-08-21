@@ -1,9 +1,9 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dimonoid&show_icons=true&bg_color=10,736ffe,5efce8&text_color=f2bb68&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dimonoid&show_icons=true&bg_color=10,736ffe,5efce8&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimonoid&show_icons=true&bg_color=10,736ffe,5efce8&text_color=f2bb68&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimonoid&show_icons=true&bg_color=10,736ffe,5efce8&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **dimonoid/dimonoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 30;e96443;904e95
