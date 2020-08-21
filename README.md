@@ -5,8 +5,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimonoid&show_icons=true&bg_color=10,736ffe,5efce8&text_color=ffffff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src="https://mlqmtwka8c9g.i.optimole.com/gOh5_1g-LkbUQGvD/w:366/h:153/q:85/dpr:2.6/https://www.competethemes.com/wp-content/uploads/2018/07/make-site-like-linkedin.png"
-     alt="Markdown Monster icon"/>](https://www.linkedin.com/in/dcher/ =400x)
+[<img src="https://mlqmtwka8c9g.i.optimole.com/gOh5_1g-LkbUQGvD/w:366/h:153/q:85/dpr:2.6/https://www.competethemes.com/wp-content/uploads/2018/07/make-site-like-linkedin.png">](https://www.linkedin.com/in/dcher/ =400x)
 <!--
 **dimonoid/dimonoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 30;e96443;904e95
