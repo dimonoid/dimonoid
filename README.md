@@ -7,7 +7,7 @@
 
 <img src="https://mlqmtwka8c9g.i.optimole.com/gOh5_1g-LkbUQGvD/w:366/h:153/q:85/dpr:2.6/https://www.competethemes.com/wp-content/uploads/2018/07/make-site-like-linkedin.png">![Link](https://www.linkedin.com/in/dcher/ =400x)
 
-<a href="https://www.linkedin.com/in/dcher/" rel="some text" style="width=100px;">![Foo](https://www.competethemes.com/wp-content/uploads/2018/07/make-site-like-linkedin.png)</a>
+<a href="https://www.linkedin.com/in/dcher/" rel="some text" style="width=100px; height=100px;">![Foo](https://www.competethemes.com/wp-content/uploads/2018/07/make-site-like-linkedin.png)</a>
 <!--
 **dimonoid/dimonoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 30;e96443;904e95
