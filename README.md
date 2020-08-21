@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dimonoid&show_icons=true&bg_color=135,5EFCE8,736EFE&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dimonoid&show_icons=true&bg_color=135,5efce8,736EFE&text_color=ffffff&icon_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
 
